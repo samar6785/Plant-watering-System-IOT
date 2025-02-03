@@ -1,8 +1,12 @@
 🌱 Smart Plant Watering System using ESP8266 & Blynk IoT
 
+![Image](https://github.com/user-attachments/assets/cb9284c8-ca43-4cc7-b68a-ab80fe68f17d)
+
 ![Image](https://github.com/user-attachments/assets/56047529-66c3-4018-832d-f61255662318)
 
 ![Image](https://github.com/user-attachments/assets/02325806-7427-407c-87de-82d991e02b84)
+
+![Image](https://github.com/user-attachments/assets/c451e42f-9fb2-4468-869a-e3920aab1f0f)
 
 
 
