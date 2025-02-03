@@ -1,5 +1,12 @@
 🌱 Smart Plant Watering System using ESP8266 & Blynk IoT
 
+![Image](https://github.com/user-attachments/assets/56047529-66c3-4018-832d-f61255662318)
+
+![Image](https://github.com/user-attachments/assets/02325806-7427-407c-87de-82d991e02b84)
+
+
+
+
  Overview:-
 
 This Smart Plant Watering System automates plant irrigation using an ESP8266 microcontroller and Blynk IoT. It monitors soil moisture levels and activates a water pump when needed, ensuring efficient plant care. The system also provides real-time monitoring and remote control via the Blynk app.
