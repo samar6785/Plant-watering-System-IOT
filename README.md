@@ -27,7 +27,9 @@ This Smart Plant Watering System automates plant irrigation using an ESP8266 mic
 8.	I2C Protocol  Module
 
 🔌 Circuit Diagram
-(Include an image of your circuit wiring here.)
+
+![Image](https://github.com/user-attachments/assets/904de961-d246-48d6-9430-55428553011d)
+
 
 📌 Installation & Setup
 
